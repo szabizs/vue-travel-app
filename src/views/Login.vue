@@ -25,7 +25,7 @@ export default {
             // Authentication login against API
             store.user = this.username;
             // Redirect the user
-            const redirectPath = this.$router.query.redirect || '/'
+            const redirectPath = this.$route.query.redirect || '/';
             this.$router.push(redirectPath)
         }
     }
