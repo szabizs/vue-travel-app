@@ -1,5 +1,7 @@
 # vue-travel-app
 
+![Demo](https://github.com/ppmadalin/vue-travel-app/blob/master/src/assets/demo.png)
+
 ## Project setup
 ```
 npm install
